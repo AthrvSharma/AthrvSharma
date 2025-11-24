@@ -74,7 +74,7 @@
 
 # 🐍 Animated Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AthrvSharma/AthrvSharma/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AthrvSharma/AthrvSharma/main/dist/snake.svg" alt="snake gif" />
 </p>
 
 ---
