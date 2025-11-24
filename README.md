@@ -66,7 +66,7 @@
 
 ---
 
-# 👨‍💻 Coding Mood (Boy Version)
+# 👨‍💻 Coding Mood 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AthrvSharma/AthrvSharma/main/assets/boy-coding.gif" width="260" />
 </p>
