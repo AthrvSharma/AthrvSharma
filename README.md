@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Featured Projects (Premium 2×2)
+## 🚀 Featured Projects 
 
 <table>
 <tr>
