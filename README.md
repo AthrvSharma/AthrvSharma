@@ -1,23 +1,22 @@
 <!-- =======================
-     ATHRV SHARMA | PROFILE
-     Paste into: GitHub Profile Repo README.md
-     Repo name: AthrvSharma/AthrvSharma
+     ATHRV SHARMA | PROFILE README
+     Paste into: AthrvSharma/AthrvSharma (profile repo)
 ======================= -->
 
-<!-- ===== Animated Top Banner (non-red) ===== -->
+<!-- ===== Animated Header Banner (blue/teal vibe) ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Athrv%20Sharma&fontSize=58&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused%20%7C%20Java%20%2B%20DSA%20%7C%20AI%20Systems&descAlignY=62" />
 
 <!-- ===== Typing Animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+%7C+Backend+Focused;Node.js+%2F+Express+%2F+MongoDB+%2F+EJS+%2F+Next.js;Java+%2B+DSA+(LinkedList%2C+Searching%2C+Sorting);Building+AI-powered+products+%26+scalable+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+%7C+Backend+Focused;Node.js+%2F+Express+%2F+MongoDB+%2F+EJS+%2F+Next.js;Java+%2B+DSA+(LinkedList%2C+Searching%2C+Sorting);Building+AI-powered+products+%26+scalable+systems" />
 </p>
 
-<!-- ===== Clean Gradient Divider (animated look via GIF) ===== -->
+<!-- ===== Clean Divider ===== -->
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750087-3b4b3d11-1f7f-4f88-b9c3-8b40b702fdc7.gif" />
 </p>
 
-<!-- ===== Quick Links (non-red) ===== -->
+<!-- ===== Quick Links (EDIT THESE 3) ===== -->
 <p align="center">
   <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,9 +38,9 @@ I enjoy turning complex ideas into **production-ready systems** with clean archi
 ---
 
 ## 🔭 Currently Building
-- **CineVerse** – Movie streaming-style platform (**Node.js, Express, MongoDB, EJS**) with **Local + Google OAuth**, admin movie management & optimized backend flows.  
+- **Cineverse** – Movie streaming-style platform (**Node.js, Express, MongoDB, EJS**) with **Local + Google OAuth**, admin movie management & optimized backend flows.  
 - **PrepGenius** – AI interview prep platform with mock interviews, coding practice, resume analysis, job-match scoring & analytics dashboards.  
-- **Altrix** – Python AI system converting F1 telemetry crashes into road-safety insights using anomaly detection, feature engineering & dashboards.  
+- **Altrix** – Python AI system converting F1 crash telemetry into road-safety insights using anomaly detection, feature engineering & dashboards.  
 - **Wonderkit** – Next.js multi-tool SaaS (coming soon on GitHub)
 
 ---
@@ -53,39 +52,42 @@ I enjoy turning complex ideas into **production-ready systems** with clean archi
 
 ---
 
-## 📌 Projects (Auto Cards)
-<!-- Pin cards: repo name is CASE-SENSITIVE -->
-<p align="center">
-  <a href="https://github.com/AthrvSharma/PrepGenius">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AthrvSharma&repo=PrepGenius&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AthrvSharma/Cineverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AthrvSharma&repo=Cineverse&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+## 🧩 Projects (Click Tiles)
 
-<p align="center">
-  <a href="https://github.com/AthrvSharma/Altrix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AthrvSharma&repo=Altrix&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- Wonderkit will be added later -->
-  <!--
-  <a href="https://github.com/AthrvSharma/Wonderkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AthrvSharma&repo=Wonderkit&theme=tokyonight&hide_border=true" />
-  </a>
-  -->
-</p>
+<!-- 4 square tiles: click to open repo -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AthrvSharma/Cineverse">
+        <img src="https://placehold.co/230x230/0EA5E9/ffffff/png?text=Cineverse" width="230" height="230" alt="Cineverse" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AthrvSharma/PrepGenius">
+        <img src="https://placehold.co/230x230/7C3AED/ffffff/png?text=PrepGenius" width="230" height="230" alt="PrepGenius" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AthrvSharma/Altrix">
+        <img src="https://placehold.co/230x230/14B8A6/ffffff/png?text=Altrix" width="230" height="230" alt="Altrix" />
+      </a>
+    </td>
+    <td align="center">
+      <!-- Replace this when Wonderkit repo is created -->
+      <a href="https://github.com/AthrvSharma?tab=repositories">
+        <img src="https://placehold.co/230x230/111827/ffffff/png?text=Wonderkit%0A(soon)" width="230" height="230" alt="Wonderkit (soon)" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AthrvSharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=AthrvSharma&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthrvSharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=AthrvSharma&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,10 +97,12 @@ I enjoy turning complex ideas into **production-ready systems** with clean archi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AthrvSharma&theme=tokyo-night&hide_border=true" />
 </p>
 
-<!-- ===== Profile Views (non-red) ===== -->
+---
+
+## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AthrvSharma&label=Profile%20Views&color=0EA5E9&style=flat" />
 </p>
 
-<!-- ===== Footer Banner (non-red) ===== -->
+<!-- ===== Footer Banner ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=140&section=footer" />
